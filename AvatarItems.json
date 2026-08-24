@@ -14,6 +14,42 @@
     "Tooltip": "AAAA",
     "Rarity": 30
   },
+  {
+    "AvatarItemId": 1915,
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,PR5dh2jf2kqGLO0lXgA69A,0440f08f-ef1d-49d8-942b-523056e8bb45,4ca3347a-dc87-412f-9eb1-799372e6fdd1",
+    "PlatformMask": -1,
+    "FriendlyName": "Radeon Shirt [Radeon Red]",
+    "Tooltip": "A great reward for the great folk who played Radeon.",
+    "Rarity": 50,
+    "IsDefaultUnlocked": false,
+    "CreatedAt": "2026-04-13 14:02:07.0000000",
+    "ThumbnailImage": null
+  },
+  {
+    "AvatarItemId": 1916,
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "KNZ1DvCLC0WHyH4opYAXtw,PR5dh2jf2kqGLO0lXgA69A,,",
+    "PlatformMask": -1,
+    "FriendlyName": "Radeon Space Visor [Radeon Red]",
+    "Tooltip": "A great reward for the great folk who played Radeon.",
+    "Rarity": 50,
+    "IsDefaultUnlocked": false,
+    "CreatedAt": "2026-04-13 14:02:07.0000000",
+    "ThumbnailImage": null
+  },
+  {
+    "AvatarItemId": 1917,
+    "AvatarItemType": 0,
+    "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,7WrSbK4Ml0K2z-ig5HIUCw,0440f08f-ef1d-49d8-942b-523056e8bb45,4ca3347a-dc87-412f-9eb1-799372e6fdd1",
+    "PlatformMask": -1,
+    "FriendlyName": "Radium Shirt",
+    "Tooltip": "A cool reward for the cool peeps who played Radium before the great Rec Room shutdown of June 1st 2026.",
+    "Rarity": 50,
+    "IsDefaultUnlocked": false,
+    "CreatedAt": "2026-04-13 14:02:07.0000000",
+    "ThumbnailImage": null
+  },
 {
     "AvatarItemType": 0,
     "AvatarItemDesc": "05b7af56-71f2-45ba-a377-c105bf6a6f7a,lsyYlxY9o0a3TbUrHkxeyQ,,",
